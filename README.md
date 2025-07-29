@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joshi Priyanka</h1>
 <h3 align="center">Machine Learning & NLP Specialist | Generative AI | Building Advanced AI Solutions | LLMs Enthusiast</h3>
 
-- 🔭 I’m currently working on **Generative AI E-commerce Assistant**
+- 🔭 I’m currently working on **Management Information System Executive**
 
 - 🌱 I’m currently learning **frameworks like TensorFlow, PyTorch, and Hugging Face Transformers**
-
-- 👯 I’m looking to collaborate on **Machine Learning, NLP and Generative AI projects]**
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyankajoshiii](https://github.com/priyankajoshiii)
 
